@@ -1,0 +1,28 @@
+#header .navbar-inverse .navbar-nav li{
+	border: 1px solid #fff;
+	text-align: center;
+	color: #FFFFFF;
+}
+
+#header .navbar-inverse .navbar-nav li:hover {
+    background-color: #FFFFFF;
+    border: 1px solid #A24188;
+}
+
+#header .navbar-inverse .navbar-nav li a:hover {
+	color: #A24188;;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+	color: #FFFFFF;
+}
+
+ul.nav.navbar-nav.first-nav{
+	width: 100%;
+	margin-top: 2%;
+}
+
+ul.nav.navbar-nav.first-nav > li {
+	width: 20%;
+	background-color: #A24188;
+}
